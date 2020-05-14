@@ -9,7 +9,7 @@ A cada mòdul, hi trobareu lliçons de vídeo marcades amb aquesta icona: tv: i 
 ## Per començar
 
 1. Registrau un nou compte a [github.com](https://github.com/), vinculat al mail del domini @cifpfbmoll.eu.
-2. [Baixau, instal·lau i configurau git](https://git-scm.com/). Si sou usuaris de Windows, instal·lau [Git for Windows](https://gitforwindows.org/).
+2. [Baixau, instal·lau i configurau git](https://git-scm.com/).
 3. Assegureu-vos de configurar Git amb el vostre nom i adreça de correu electrònic mitjançant les comandes següents a la línia d’ordres amb el vostre nom i adreça de correu electrònic:
 ```
 $ git config --global user.name "Nom Llinatges"

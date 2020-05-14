@@ -1,14 +1,13 @@
 # Activitat Mòdul 1.3
 
-Now that you have learned more about Git, on the command line I would like you to do the following:
+Ara que heu après més informació sobre Git, a la línia de comandes heu de fer el següent:
 
-- [ ] Create a file called `campus_advisor.txt` in the directory you created in Module 1.2
-- [ ] Write "Hello Campus Advisors!" in `campus_advisor.txt` and **commit** your changes
-- [ ] Now write "Hola Campus Advisors!" in `campus_advisor.txt`
-- [ ] Show the differences between your _Working Directory_ and _Staging Area_
-- [ ] Add `campus_advisor.txt` to your _Staging Area_
-- [ ] Show the differences between your _Staging Area_ and your _Repository_
-- [ ] Commit campus_advisor.txt to your repository
+- [] Crear un fitxer anomenat `campus_advisor.txt` al directori que heu creat al mòdul 1.2
+- [] Escriure "Hola assessors del campus!" a `campus_advisor.txt` i fer **commit** dels vostres canvis
+- [] Ara escriviu "Hello assessors del campus!" a `campus_advisor.txt`
+- [] Mostrar les diferències entre el vostre _Working Directory_ i _Staging Area_
+- [] Afegir `campus_advisor.txt` a la vostra  _Staging Area_
+- [] Mostrar les diferències entre la vostra _Staging Area_ i el vostre _Repositori_
+- [] Fer **commit** de campus_advisor.txt al vostre repositori
 
-Once you have completed these steps, take a screenshot of your command line, with the steps above, 
-and upload your screenshot to a new Issue titled Module 1.3 Assignment.
+Un cop hagueu completat aquests passos, feu una captura de pantalla de la línia de comandes, amb els passos anteriors, i pengeu la captura de pantalla a un nou *issue* titulat `Activitat Mòdul 1.3`.

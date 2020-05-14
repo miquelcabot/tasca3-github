@@ -12,7 +12,7 @@ Per a l'activitat del mòdul 1.2, heu d'obrir la vostra línia de comandes i com
 - [ ] Assegurar-se que el vostre _Working Directory_ i _Staging Area_ estàn buits amb `git status`
 - [ ] Assegurar-se que el vostre _commit_ s'ha guardat al vostre repositori utilitzant `git log`
 
-Un cop hàgiu completat aquests passos, feu una captura de pantalla de la vostra línia de comandes, amb els passos anteriors i pengeu la captura de pantalla a un nou `Issue` titulat `Activitat Mòdul 1.1`. He afegit la captura de pantalla de l'activiat del mòdul 1.1 com a referència.
+Un cop hagueu completat aquests passos, feu una captura de pantalla de la vostra línia de comandes, amb els passos anteriors i pengeu la captura de pantalla a un nou `Issue` titulat `Activitat Mòdul 1.2`. He afegit la captura de pantalla de l'activiat del mòdul 1.1 com a referència.
 
 ![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_three.png)
 

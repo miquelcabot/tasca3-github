@@ -1,17 +1,12 @@
 # Activitat Mòdul 1.4
 
-You were introduced to the tool [Visualizing Git](http://git-school.github.io/visualizing-git/) in this lesson. On your command
-line, I would like you replicate this visualization:
+En aquesta lliçó, se us ha mostrat l'eina [Visualizing Git](http://git-school.github.io/visualizing-git/). Amb l'ordre de comandes, heu de replicar aquesta visualització:
 
 ![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/visualize_git.png)
 
-This will require you to create a new repository and to do four seperate commits. Note, there is more than one way to replicate 
-this visualization on the command line. You are more than welcome to use [Visualizing Git](http://git-school.github.io/visualizing-git/) to help you.
+Això requerirà que creeu un repositori nou i que realitzeu quatre *commits* separats. Tingueu en compte que hi ha més d’una manera de replicar aquesta visualització a la línia de comandes. És molt recomanable utilitzar [Visualizing Git](http://git-school.github.io/visualizing-git/) com a ajuda.
 
-**Hint**
-You will have to initialize a new repository, make four commits total, add one new branch, and you will need to
-checkout onto the Master branch in the end to ensure `HEAD` is pointing to Master.
+**Pista**
+Haureu d’inicialitzar un nou repositori, fer quatre *commits*, afegir una nova branca i haureu de fer un *checkout* a la branca *Master* al final per assegurar-se que `HEAD` apunta a *Master*.
 
-Once you have determined the correct sequence of git commands, take a screenshot of your command line
-and upload your screenshot to a new Issue titled Module 1.4 Assignment. If your command line is long with commands, 
-you are welcome to take multiple screenshots and upload them to the Issue.
+Un cop hagueu determinat la seqüència correcta d’ordres git, feu una captura de pantalla de la vostra línia d’ordres i pengeu la captura de pantalla a un nou *issue* titulat `Activitat Mòdul 1.4`. Si la vostra línia de comandes és massa llarga, podeu fer diverses captures de pantalla i penjar-les al *issue*.
