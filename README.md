@@ -1,52 +1,60 @@
-# Welcome to Campus Advisor Training
+# Tasca 3 - Git i GitHub
 
-Welcome to Campus Advisor training. You will be presented with video lessons and asked to complete assignments for each video lesson. All of the videos and assignments can be found in this repository. You are welcome to navigate around this repository, or you are welcome to just follow the links like the one at the bottom of this README to help you progress through the training.
+Benvingut a la formació de Git i GitHub. Se us presentarà lliçons de vídeo i se us demanarà realitzar activitats per a cada lliçó de vídeo. Tots els vídeos i activitats es poden trobar en aquest repositori. Podeu navegar per aquest repositori o seguir els enllaços com el que hi ha a la part inferior d'aquest README per ajudar-vos a avançar durant la formació.
 
-In each module, you will find video lessons marked with this icon :tv: and assignments will be marked with this icon :notebook:. You can find your first video below:
+A cada mòdul, hi trobareu lliçons de vídeo marcades amb aquesta icona: tv: i les activitats es marcaran amb aquesta icona: quadern:. Podeu trobar el vostre primer vídeo a continuació:
 
-[:tv: Watch me before you begin](https://youtu.be/Ub8IMMMTfB8)
+[:tv: Mireu-me abans de començar](https://youtu.be/Ub8IMMMTfB8)
 
-## This is your training
+**Tots els fitxers d'activitat es poden trobar a la part superior de la pàgina.**
 
-It is beneficial that you take advantage of the resources presented to you, but I would also recommend that if you find instances where things can be improved, then please create an issue in the original repository [here](https://github.com/github-campus-advisors/Campus-Advisor-Training/issues). If you are not familiar with issues in GitHub, no worries, you will learn about them soon.
+## Per començar
 
-## To Get Started
-
-1. Register for an account on [github.com](https://github.com/).
-2. [Download, install and configure git](https://git-scm.com/). Windows users please install [Git for Windows](https://gitforwindows.org/).
-3. If you are new to Git, GitHub, and the command-line, I recommend [downloading ATOM](https://atom.io/), a text editor, which is available for Mac, Linux, and Windows. I will be using ATOM in all of the modules.
-
-    #### Mac and Linux Setup
-      If you are using a Mac or Linux machine, I would recommend following these instructions to setup the ATOM command-line:
-      - [ATOM command-line Instructions](https://youtu.be/h5xcw8_8gaE)
-
-    #### Chromebook User Setup
-      If you are using a Chromebook, great news! You can use ATOM to follow along with the videos with some easy instructions:
-      - [Instructions and setup for ATOM for Chromebook Users](https://blog.atom.io/2018/10/02/running-atom-on-chome-os.html)
-      - [ATOM command-line Instructions](https://youtu.be/h5xcw8_8gaE)
-
-    #### Windows User Setup
-      If you are using Windows, and new to the command-line, I would recommend following additional instructions to avoid using the default shell, known as "PowerShell," in ATOM since all of the examples in the modules will be using a Unix based shell:
-      - [Instructions and setup for using ATOM in Windows](https://youtu.be/0aVAjhVZ9Ko)
-    
-4. Make sure to set Git with your name and email address using the following commands on the command-line with your name and email address:
+1. Registrau un nou compte a [github.com](https://github.com/), vinculat al mail del domini @cifpfbmoll.eu.
+2. [Baixau, instal·lau i configurau git](https://git-scm.com/). Si sou usuaris de Windows, instal·lau [Git for Windows](https://gitforwindows.org/).
+3. Assegureu-vos de configurar Git amb el vostre nom i adreça de correu electrònic mitjançant les comandes següents a la línia d’ordres amb el vostre nom i adreça de correu electrònic:
 ```
-$ git config --global user.name "FirstName LastName"
+$ git config --global user.name "Nom Llinatges"
 $ git config --global user.email "email@example.com"
 ```
-This is important because Git will use this information when you work on a project.
+Això és important perquè Git utilitzarà aquesta informació quan treballi en un projecte.
 
-## Questions
-If you have any questions regarding setup or on any of the learning modules, I would recommend visiting the [GitHub Education Community](https://education.github.community/c/teachers/advisors) for assistance.
+## Mòdul 1: Git
 
-<hr>
+En aquest mòdul se us introduirà a Git. Aquest mòdul inclou:
 
-## To begin
+* Què és el control de versions?
+* Què és el Control de versions distribuït?
+* Què és un repositori Git?
+* Comandes bàsiques Bash i Git
+* El flux de treball Git i el model de tres estats
+* Com ser selectiu amb els commits de Git
+* Com ho fa Git per guardar commits
+* Com fer i fusionar branques
 
-You will notice at the top of the page there are directories for each learning module. To begin, please click on Module 1 to start.
+### Mòdul 1.1: Coneix Git
 
-## When you are finished
+[:tv: Vídeo del mòdul 1.1](https://youtu.be/uWsXEmaM3PA)
 
-Once you have completed the mandatory Modules 1-4 you are welcome to apply to be a Certified Campus Advisor. Certified Campus advisors join a community of educator leaders who champion industry tools in their classroom. Campus Advisors join a collaborative network that allows them to learn from their peers, but also share what they are doing in their classrooms. Campus Advisors also receive professional development support from GitHub.
+:notebook: Completa l'activitat Mòdul 1.1
 
-[Become a Certified Campus Advisor](https://airtable.com/shr6ZHMoHOb9kBupY)
+### Mòdul 1.2: El model de tres estats
+
+[:tv: Vídeo del mòdul 1.2](https://youtu.be/yLLZdOIuCfg)
+
+:notebook: Completa l'activitat Mòdul 1.2
+
+### Mòdul 1.3: Ser selectiu amb Git
+
+[:tv: Vídeo del mòdul 1.2](https://youtu.be/3zmolo8YRO8)
+
+:notebook: Completa l'activitat Mòdul 1.3
+
+### Mòdul 1.4: Branques i fusions
+
+[:tv: Vídeo del mòdul 1.4](https://youtu.be/2YDoQZ9nZ4g)
+
+:notebook: Completa l'activitat Mòdul 1.4
+
+
+

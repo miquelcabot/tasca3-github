@@ -1,3 +1,5 @@
+# Activitat Mòdul 1.2
+
 For the Module 1.2 Assignment, you will open up your command line and complete the following:
 
 - [ ] Create a directory using the command `mkdir`

@@ -1,4 +1,4 @@
-# Module 1.4 Assignment
+# Activitat Mòdul 1.4
 
 You were introduced to the tool [Visualizing Git](http://git-school.github.io/visualizing-git/) in this lesson. On your command
 line, I would like you replicate this visualization:

@@ -1,4 +1,4 @@
-# Module 1.3 Assignment
+# Activitat Mòdul 1.3
 
 Now that you have learned more about Git, on the command line I would like you to do the following:
 
