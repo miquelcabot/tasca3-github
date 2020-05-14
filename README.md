@@ -2,9 +2,7 @@
 
 Benvingut a la formació de Git i GitHub. Se us presentarà lliçons de vídeo i se us demanarà realitzar activitats per a cada lliçó de vídeo. Tots els vídeos i activitats es poden trobar en aquest repositori. Podeu navegar per aquest repositori o seguir els enllaços com el que hi ha a la part inferior d'aquest README per ajudar-vos a avançar durant la formació.
 
-A cada mòdul, hi trobareu lliçons de vídeo marcades amb aquesta icona: tv: i les activitats es marcaran amb aquesta icona: quadern:. Podeu trobar el vostre primer vídeo a continuació:
-
-[:tv: Mireu-me abans de començar](https://youtu.be/Ub8IMMMTfB8)
+A cada mòdul, hi trobareu lliçons de vídeo marcades amb aquesta icona: tv: i les activitats es marcaran amb aquesta icona: quadern:.
 
 **Tots els fitxers d'activitat es poden trobar a la part superior de la pàgina.**
 
@@ -56,5 +54,37 @@ En aquest mòdul se us introduirà a Git. Aquest mòdul inclou:
 
 :notebook: Completa l'activitat Mòdul 1.4
 
+## Mòdul 2: GitHub
 
+En aquest mòdul se us introduirà a GitHub. Aquest mòdul cobrirà:
 
+* Comunicar-se amb un repositori remot
+* Comandaments Git per treballar amb un repositori remot
+* Fetch i Pull a GitHub
+* Ordres Git per sol·licitar actualitzacions de GitHub
+* El flux de treball de GitHub
+* Resolució de conflictes de combinació
+
+### Mòdul 2.1: Fent Push a un repositori remot
+
+[:tv: Vídeo del mòdul 2.1](https://youtu.be/R2bLo-KiYlU)
+
+:notebook: Completa l'activitat Mòdul 2.1
+
+### Mòdul 2.2: Fent Fetch i Pull d'un repositori remot
+
+[:tv: Vídeo del mòdul 2.2](https://youtu.be/gNaCC_8B1k0)
+
+:notebook: Completa l'activitat Mòdul 2.2
+
+### Mòdul 2.3: Flux de treball amb GitHub
+
+[:tv: Vídeo del mòdul 2.3](https://youtu.be/SoaAoATcUxU)
+
+:notebook: Completa l'activitat Mòdul 2.3
+
+### Mòdul 2.4: Conflictes de Merge
+
+[:tv: Vídeo del mòdul 2.4](https://youtu.be/c1210JclnPw)
+
+:notebook: Completa l'activitat Mòdul 2.4
