@@ -6,7 +6,7 @@ Per crear un *issue*, accedireu a la pestanya marcada com `Issues`:
 
 ![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_one.png)
 
-Un cop feu clic a la pestanya, veureu tots els *issues* actuals d’aquest repositori. En aquest moment, no s'ha creat cap problema. Crearem un *issue* nou fent clic a `New issue`
+Un cop feu clic a la pestanya, veureu tots els *issues* actuals d'aquest repositori. En aquest moment, no s'ha creat cap problema. Crearem un *issue* nou fent clic a `New issue`
 
 ![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_two.png)
 
