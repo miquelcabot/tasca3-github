@@ -88,3 +88,9 @@ En aquest mòdul se us introduirà a GitHub. Aquest mòdul cobrirà:
 [:tv: Vídeo del mòdul 2.4](https://youtu.be/c1210JclnPw)
 
 :notebook: Completa l'activitat Mòdul 2.4
+
+## Lliurar la tasca
+
+Has de lliurar a [Google Classroom](https://classroom.google.com) un enllaç a una release (publicació) d’aquest repositori de GitHub.
+
+* [How to create releases](https://help.github.com/articles/creating-releases/)
