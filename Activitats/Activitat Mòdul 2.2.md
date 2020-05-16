@@ -1,16 +1,13 @@
-# Module 2.2 Assignment
+#  Activitat Mòdul 2.2
 
-In this exercise you are going to make a change to this document on GitHub. As mentioned in the video, you can edit documents
-on GitHub by clicking the edit button and committing those changes. 
+En aquest exercici, fareu un canvi a aquest document a GitHub. Tal com s'ha esmentat en el vídeo, podeu editar documents a GitHub fent clic al botó `Edit` i fent *commit* d'aquests canvis.
 
-Please follow the steps below:
+Seguiu els passos següents:
 
-1. Create a new branch called `edit-module-assignment` on GitHub
-2. On the `edit-module-assignment` branch, find this document, `Module 2.2 Assignment` and click the edit button.
-3. In the editor for `Module 2.2 Assignment` add your name at the top of the document.
-4. Scroll down and commit these changes.
-5. On your local repository (on your computer) of the `Campus-Advisor_Training` repository, which we cloned in the last assignment,
-fetch and merge this change into your master branch on the command line.
+1. Creeu una branca nova anomenada `edit-module-assignment` a GitHub
+2. A la branca `edit-module-assignment`, cercau aquest document, `Activitat Mòdul 2.2` i feu clic al botó `Edit`.
+3. A l'editor de `Activitat Mòdul 2.2`, afegiu el vostre nom a la part superior del document.
+4. Desplaceu-vos cap avall i feis *commit* d'aquests canvis.
+5. Al vostre repositori local (al vostre ordinador) del repositori `tasca3-github`, que vàrem clonar en la darrera activitat, feis *fetch* i *merge* d'aquest canvi a la branca `master` amb la línia d'ordres.
 
-Take a screenshot of your command line showing that you have fetched and merged these changes
-and upload your screenshot to a new Issue titled `Module 2.2 Assignment`.
+Feu una captura de pantalla de la vostra línia de comandes que mostra que heu fet *fetch* i *merge* d'aquests canvis i pengeu la captura de pantalla a un nou `Issue` titulat `Activitat Mòdul 2.2`.
