@@ -1,8 +1,8 @@
-# Module 2.4 Assignment
+#  Activitat Mòdul 2.4
 
-In this assignment, you will be asked to resolve a merge conflict. We want to create a `README.md` that says `"Hello World"`. 
+En aquesta activitat, se us demanarà que resolgueu un conflicte de *merge*. Volem crear un `README.md` que digui `"Hello World"`.
 
-Copy and paste these commands on your command line and press `return`:
+Copieu i enganxeu aquestes ordres a la vostra línia de comandes i pitgeu `return`:
 
 ```
 mkdir MergeConflict
@@ -23,7 +23,6 @@ git commit -m"second commit on master"
 git merge new-branch
 ```
 
-This "script" will create a merge conflict. Resolve the merge conflict so the text in `README.md` is `"Hello World"`.
+Aquest "script" crearà un conflicte de *merge*. Resoleu el conflicte de *merge* perquè el text a `README.md` sigui `"Hello World"`.
 
-Take a screenshot of your command line showing that you have resolved the merge conflict
-and upload your screenshot to a new Issue titled `Module 2.4 Assignment`. 
+Feu una captura de pantalla de la vostra línia d'ordres que mostri que heu resolt el conflicte de *merge* i pengeu la captura de pantalla a un nou `Issue` titulat `Activitat Mòdul 2.4`.
