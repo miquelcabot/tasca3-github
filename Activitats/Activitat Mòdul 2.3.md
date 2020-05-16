@@ -1,15 +1,12 @@
-Miquel A. Cabot
-# Module 2.3 Assignment
+#  Activitat Mòdul 2.3
 
-Similar to the last exercise, you are going to make a change to this document, but you will make the change on the command line
-using your local repository. (Review Module 2.3 video for guidance)
+De forma semblant a l'últim exercici, realitzareu un canvi a aquest document, però fareu el canvi a la línia d'ordres utilitzant el vostre repositori local (Consulteu el vídeo del mòdul 2.3 per obtenir una orientació)
 
-You will do the following:
-1. Create a new branch called `assignment-edit` on the command line of your local repository on your computer.
-2. Edit this document, `Module 2.3 Assignment.md` by adding your name on the first line. 
-3. Once you have edited `Module 2.3 Assignment.md`, push those changes to GitHub.
-4. On GitHub create a Pull Request to merge these changes into the Master branch. 
-5. Delete the `assignment-edit` branch after the merge.
+Fareu el següent:
+1. Creeu una branca nova anomenada `assignment-edit` a la línia d'ordres del vostre repositori local a l'ordinador.
+2. Editeu aquest document, `Activitat Mòdul 2.3.md` afegint el vostre nom a la primera línia.
+3. Un cop editat el `Activitat Mòdul 2.3.md`, feis *push* d'aquests canvis a GitHub.
+4. A GitHub, creeu una petició Pull per combinar aquests canvis a la branca `master`.
+5. Eliminau la branca `assignment-edit` després del *merge*.
 
-Take a screenshot of your command line showing that you have committed and pushed your change
-and upload your screenshot to a new Issue titled `Module 2.3 Assignment`. 
+Feu una captura de pantalla de la vostra línia de comandaments que mostri que heu fet *commit* i *push* del vostre canvi i pengeu la captura de pantalla a un nou `Issue` titulat `Activitat Mòdul 2.3`.
