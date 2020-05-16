@@ -89,8 +89,13 @@ En aquest mòdul se us introduirà a GitHub. Aquest mòdul cobrirà:
 
 :notebook: Completa l'activitat Mòdul 2.4
 
-## Lliurar la tasca
+## Format de lliurament
 
 Has de lliurar a [Google Classroom](https://classroom.google.com) un enllaç a una release (publicació) d’aquest repositori de GitHub.
 
 * [How to create releases](https://help.github.com/articles/creating-releases/)
+
+## Referències
+
+* [Git Cheat Sheet - GitHub Education](https://education.github.com/git-cheat-sheet-education.pdf)
+* [Git & GitHub Crash Course For Beginners, Vídeo Youtube de Traversy Media](https://youtu.be/SWYqp7iY_Tc)
