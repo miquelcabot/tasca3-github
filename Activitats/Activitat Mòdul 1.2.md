@@ -5,7 +5,7 @@ Per a l'activitat del mòdul 1.2, heu d'obrir la vostra línia de comandes i com
 - [ ] Crear un directori mitjançant la comanda `mkdir`
 - [ ] Al directori que heu creat inicialitzar Git mitjançant `git init`
 - [ ] Crear un fitxer README.md al vostre directori mitjançant l'ordre `touch`
-- [ ] Assegurar-se que README.md es troba al vostre _Working Directory_ comprovant el vostre estat amb `status git`
+- [ ] Assegurar-se que README.md es troba al vostre _Working Directory_ comprovant el vostre estat amb `git status`
 - [ ] Moure README.md del _Working Directory_ al _Staging Area_ utilitzant `git add`
 - [ ] Assegurar-se que README.md és al vostre _Staging Area_ comprovant el vostre estat amb `git status`
 - [ ] Fer _commit_ de README.md al vostre repositori utilitzant `git commit`
